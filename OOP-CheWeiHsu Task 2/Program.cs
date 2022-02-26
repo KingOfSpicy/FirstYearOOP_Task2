@@ -15,7 +15,7 @@ namespace OOP_CheWeiHsu_Task_2
             Console.WriteLine("Here is three little games:");
             Console.WriteLine();
             Console.WriteLine("1 is a simple calculator, you give 2 numbers and one operator, calculator will give you result.");
-            Console.WriteLine("2 is guessing number game, to simplily test you are a moron or not.");
+            Console.WriteLine("2 is guessing number game, to simplily test if you can guess right.");
             Console.WriteLine("3 is car parking time calculator, you will tell me how long you have parked your car, and I will tell you how much you should pay.");
             Console.WriteLine();
 
